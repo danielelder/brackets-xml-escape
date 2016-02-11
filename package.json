@@ -1,0 +1,23 @@
+{
+    "name": "brackets-xml-escape",
+    "title": "XML Escape / Unescape",
+    "version": "1.0.0",
+    "description": "Escape and unescape XML documents",
+    "homepage": "https://github.com/danelder/brackets-xml-escape",
+    "author": "Dan Elder (https://github.com/danelder/)",
+    "license": "MIT",
+    "categories":"formatting",
+    "keywords": [
+        "format",
+        "formatting",
+        "xml",
+        "escape",
+        "unescape"
+    ],
+    "files": [
+        "main.js"
+    ],
+    "engines": {
+        "brackets": ">=0.22.0"
+    }
+}
