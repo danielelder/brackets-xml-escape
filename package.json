@@ -3,8 +3,8 @@
     "title": "XML Escape / Unescape",
     "version": "1.0.0",
     "description": "Escape and unescape XML documents",
-    "homepage": "https://github.com/danelder/brackets-xml-escape",
-    "author": "Dan Elder (https://github.com/danelder/)",
+    "homepage": "https://github.com/danielelder/brackets-xml-escape",
+    "author": "Dan Elder (https://github.com/danielelder/)",
     "license": "MIT",
     "categories":"formatting",
     "keywords": [
