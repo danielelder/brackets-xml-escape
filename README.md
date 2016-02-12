@@ -9,7 +9,10 @@ This has resulted in the escape and unescape functions behaving differently (see
 
 ## Getting Started
 
-Download the extension and install via the Extension Manager.
+Download the extension and drag the zip file into the Extension Manager or install via this url:
+
+https://github.com/danielelder/brackets-xml-escape/archive/master.zip
+
 
 ## Usage
 
